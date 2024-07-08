@@ -1,3 +1,0 @@
-D:\27294\Git\learn-git\Sample-Test1\x64\Debug\gtest.pdb
-D:\27294\Git\learn-git\Sample-Test1\x64\Debug\gtest_main.pdb
-D:\27294\Git\learn-git\Sample-Test1\Sample-Test1\x64\Debug\Sample-T.3FC69248.Up2Date
